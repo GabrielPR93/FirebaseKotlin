@@ -59,6 +59,7 @@
 
             </LinearLayout>
             <TextView
+                android:id="@+id/lemaEquipo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Hasta el final vamos Real "
@@ -84,12 +85,13 @@
                     android:src="@drawable/estadio"/>
 
                 <TextView
+                    android:id="@+id/capacidad"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="2dp"
                     android:layout_marginLeft="2dp"
                     android:fontFamily="@font/daughter"
-                    android:text=" 81.044 espectadores"
+                    android:text=" 81.044"
                     android:layout_marginTop="3dp"
                     android:textColor="@color/subtext"
                     android:textSize="14sp" />
