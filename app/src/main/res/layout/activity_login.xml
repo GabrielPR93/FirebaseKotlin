@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:textSize="28sp"
         android:textAlignment="center"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:text="Iniciar Sesión"
         tools:layout_editor_absoluteX="164dp"
         tools:layout_editor_absoluteY="66dp"

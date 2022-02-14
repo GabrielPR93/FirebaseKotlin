@@ -13,7 +13,7 @@
         android:text="Registrarse"
         android:textAlignment="center"
         android:gravity="center_horizontal"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="28sp" />
 
     <EditText
