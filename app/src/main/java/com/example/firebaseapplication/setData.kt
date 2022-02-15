@@ -8,7 +8,7 @@ object setData {
             EquipoData(
                 1,
                 "Real Madrid",
-                81044,
+                "81.044",
                 "Hasta el final vamos Real"
 
             )
@@ -17,7 +17,7 @@ object setData {
             EquipoData(
                 2,
                 "Sevilla",
-                43883,
+                "43.883",
                 "Dicen que nunca se rinde"
 
             )
@@ -26,7 +26,7 @@ object setData {
             EquipoData(
                 3,
                 "Betis",
-                59378,
+                "59.378",
                 "Viva er betis manquepierda"
 
             )
@@ -35,7 +35,7 @@ object setData {
             EquipoData(
                 4,
                 "Atletico de Madrid",
-                68456,
+                "68.456",
                 "Nunca dejes de creer"
 
             )
@@ -44,7 +44,7 @@ object setData {
             EquipoData(
                 5,
                 "Fc Barcelona",
-                99354,
+                "99.354",
                 "Més que un club"
 
             )
@@ -53,7 +53,7 @@ object setData {
             EquipoData(
                 6,
                 "Valencia",
-                48600,
+                "48.600",
                 "Una familia un sentiment"
 
             )
@@ -62,7 +62,7 @@ object setData {
             EquipoData(
                 7,
                 "Villarreal",
-                23500,
+                "23.500",
                 "Endavant"
 
             )
@@ -71,7 +71,7 @@ object setData {
             EquipoData(
                 19,
                 "Real Sociedad",
-                39500,
+                "39.500",
                 "Morir pero no rendirse"
 
             )
@@ -81,7 +81,7 @@ object setData {
             EquipoData(
                 9,
                 "Rayo Vallecano",
-                15105,
+                "15.105",
                 "Sigamos soñando"
 
             )
@@ -90,7 +90,7 @@ object setData {
             EquipoData(
                 16,
                 "Getafe",
-                16800,
+                "16.800",
                 "Hemos vuelto"
 
             )
@@ -99,7 +99,7 @@ object setData {
             EquipoData(
                 11,
                 "Athletic de Bilbao",
-                53289,
+                "53.289",
                 "Con cantera y afición no hace falta importación"
 
             )
@@ -108,7 +108,7 @@ object setData {
             EquipoData(
                 12,
                 "Alavés",
-                19840,
+                "19.840",
                 "Estuve y estoy"
 
             )
@@ -117,7 +117,7 @@ object setData {
             EquipoData(
                 18,
                 "Club Deportivo Leganés",
-                12454,
+                "12.454",
                 "Sentimiento pepinero"
 
             )
@@ -127,7 +127,7 @@ object setData {
             EquipoData(
                 13,
                 "Cádiz",
-                21094,
+                "21.094",
                 "Todos somos Cádiz"
 
             )
@@ -136,7 +136,7 @@ object setData {
             EquipoData(
                 8,
                 "Celta de Vigo",
-                29000,
+                "29.000",
                 "Afouteza e corazón"
 
             )
@@ -145,7 +145,7 @@ object setData {
             EquipoData(
                 14,
                 "Elche",
-                33732,
+                "33.732",
                 "La fuerza de un sentimiento"
 
             )
@@ -154,7 +154,7 @@ object setData {
             EquipoData(
                 20,
                 "Levante",
-                25354,
+                "25.354",
                 "Dibujamos Sonrisas"
 
             )
@@ -163,7 +163,7 @@ object setData {
             EquipoData(
                 15,
                 "Espanyol",
-                40500,
+                "40.500",
                 "Por nuestro escudo"
 
             )
@@ -174,7 +174,7 @@ object setData {
             EquipoData(
                 21,
                 "Mallorca",
-                20500,
+                "20.500",
                 "From Mallorca to the World"
 
             )
@@ -183,7 +183,7 @@ object setData {
             EquipoData(
                 17,
                 "Granada",
-                19336,
+                "19.336",
                 "Eterna lucha"
 
             )
@@ -192,7 +192,7 @@ object setData {
             EquipoData(
                 10,
                 "Osasuna",
-                23576,
+                "23.576",
                 "Ganatelo en el campo"
 
             )
